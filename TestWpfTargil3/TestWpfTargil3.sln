@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWpfTargil3", "TestWpfTargil3\TestWpfTargil3.csproj", "{D2840568-B879-41B2-AA82-729EEC7C087B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2840568-B879-41B2-AA82-729EEC7C087B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2840568-B879-41B2-AA82-729EEC7C087B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2840568-B879-41B2-AA82-729EEC7C087B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2840568-B879-41B2-AA82-729EEC7C087B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D20E083-AE93-4981-9604-197A598A592D}
+	EndGlobalSection
+EndGlobal
